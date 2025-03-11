@@ -30,7 +30,7 @@ void setup() {
 
     
     myButton.initButtonUL(&tft, 60, 100, 200, 60, WHITE, BLUE, WHITE, "Click Me", 2);
-    myButton.drawButton(false); // Butonu çiz
+    myButton.drawButton(false); 
 }
 
 void loop() {
